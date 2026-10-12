@@ -2,7 +2,7 @@
 CST8915 Lab 4 - Docker and Docker Compose
 
 ### Youtube Demo
-![Video Link](https://youtu.be/iSJHmQvnxqA)
+- [Video Link](https://youtu.be/iSJHmQvnxqA)
 
 ### Reflection Questions
 
